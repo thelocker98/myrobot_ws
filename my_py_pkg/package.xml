@@ -9,8 +9,6 @@
 
   <depend>rclpy</depend>
   <depend>example_interfaces</depend>
-  <depend>pygame</depend>
-  <depend>time</depend>
   <depend>geometry_msgs</depend>
   <depend>functools</depend>
   <depend>my_robot_interfaces</depend>

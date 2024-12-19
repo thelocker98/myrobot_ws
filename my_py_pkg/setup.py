@@ -24,7 +24,6 @@ setup(
             "py_node = my_py_pkg.my_first_node:main",
             "smartphone = my_py_pkg.smartphone:main",
             "add_two_ints_server = my_py_pkg.add_two_ints_server:main",
-            "joy_move = my_py_pkg.joy_move:main",
             "add_two_ints_client_no_oop = my_py_pkg.add_two_ints_client_no_oop:main",
             "add_two_ints_client = my_py_pkg.add_two_ints_client:main",
             "hardware_status_publisher = my_py_pkg.hw_status_publisher:main",
